@@ -19,7 +19,7 @@ public class Tubes_SisfoGeladi {
         // TODO code application logic here
         String nama;
         
-        System.out.println("SUKSES YOOOOO!!!!!1");
+        System.out.println("SUKSES YOOOOO!!!!!");
         
     }
     
