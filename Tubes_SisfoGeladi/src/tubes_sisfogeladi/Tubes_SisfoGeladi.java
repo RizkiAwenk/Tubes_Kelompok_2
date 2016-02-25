@@ -17,6 +17,10 @@ public class Tubes_SisfoGeladi {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        String nama;
+        
+        System.out.println("SUKSES YOOOOO!!!!!1");
+        
     }
     
 }
