@@ -9,7 +9,6 @@ package tubes_sisfogeladi;
  *
  * @author Ulid
  */
-public abstract class Orang {
-    private String nama;
-    private int nim;
+public class Pembimbing {
+    
 }
