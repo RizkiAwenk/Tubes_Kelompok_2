@@ -10,5 +10,6 @@ package tubes_sisfogeladi;
  * @author Ulid
  */
 public class Orang {
-    
+    private String nama;
+    private int nim;
 }
